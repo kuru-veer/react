@@ -9,7 +9,7 @@ export default function App() {
         App hello -
         {process.env.name}
       </h1>
-      <img src={IMAGE} alt="" />
+      <img src='./assets/images/logos.png' alt="" />
     </div>
   )
 }
